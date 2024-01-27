@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Piyush-Choudhary99
 - 👀 I’m interested in Web Development and Business
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :-
 - piyushcdy2009@gmail.com
 
